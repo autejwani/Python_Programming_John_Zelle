@@ -25,18 +25,18 @@
 ### Programming Exercises
 1.
 <ol type="a">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Hello, World!</li>
+  <li>Hello world!</li>
+  <li>3</li>
+  <li>3.0</li>
+  <li>5</li>
+  <li>5.0</li>
+  <li>23</li>
+  <li>2 + 3 = 5</li>
+  <li>6</li>
+  <li>8</li>
+  <li>2.3333333333333335</li>
+  <li>2</li>
 </ol>
 2.
 3.
